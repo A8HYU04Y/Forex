@@ -1,5 +1,5 @@
 # Forex
-Foreign Exchange Rates\n
+Foreign Exchange Rates
 Currently it is working on free API so only Euro Exchange is Working
 [sample](http://forex-app.herokuapp.com/)
 
